@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f4eccb;
+}
+.main{
+  color: #ddb513;
+  display: flex;
+  justify-content: center;
+  margin-top:20px;
+
+}
+
+.menu{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: large;
+  font-weight: 800;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#para1{
+  margin-top: 30px;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+#main-comp{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap; 
+  justify-content: space-evenly;
+  
+}
+#comp{
+  display: flex;
+}
+#comp-2{
+  margin-left: 150px;
+}
